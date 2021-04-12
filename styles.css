@@ -54,6 +54,7 @@ input{
 }
 footer{
     background-color: rgb(238, 243, 252);
+    margin-top: 22em;
 }
 .footer_top{
     padding: 1em;
